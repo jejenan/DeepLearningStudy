@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+makeyourownneuralnetwork/mnist_dataset/mnist_train.csv
+makeyourownneuralnetwork/mnist_dataset/mnist_test.csv
